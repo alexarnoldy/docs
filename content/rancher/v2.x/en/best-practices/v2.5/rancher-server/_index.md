@@ -1,5 +1,5 @@
 ---
-title: Best Practices for the Rancher Server
+title: Very Best Practices for the Rancher Server
 shortTitle: Rancher Server
 weight: 1
 ---
